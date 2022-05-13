@@ -1,0 +1,24 @@
+{
+  "name": "p6_chaper_orane",
+  "version": "1.0.0",
+  "description": "Frontedn FishEye",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss ./css/style.css --style compressed",
+    "dev": "serve -l 5500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Orane31/OraneChaper_6_08032022"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Orane31/OraneChaper_6_08032022/issues"
+  },
+  "homepage": "https://github.com/Orane31/OraneChaper_6_08032022#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "serve": "^13.0.2"
+  }
+}
